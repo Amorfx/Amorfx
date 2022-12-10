@@ -14,8 +14,8 @@ I have an immense interest in music.
 ### 🌱 My latest projects
 
 - [Amorfx/simply-framework](https://github.com/Amorfx/simply-framework) - Simply Framework
-- [Amorfx/frankenphp-wordpress](https://github.com/Amorfx/simply-mvc) - Simply MVC extension
-- [Amorfx/frankenphp-demo](https://github.com/Amorfx/simply) - Simply Boilerplate
+- [Amorfx/simply-mvc](https://github.com/Amorfx/simply-mvc) - Simply MVC extension
+- [Amorfx/simply](https://github.com/Amorfx/simply) - Simply Boilerplate
 
 ### 📜 My recent [blog posts](https://www.clement-decou.fr/blog)
 
