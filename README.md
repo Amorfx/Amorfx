@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello, my name is Clément Décou I am a full-stack software developer with 10 years of experience working as a Software Engineer at Humanoid. My technology stack involves PHP/Symfony and WordPress, Javascript/Typescript with nodejs, Go.
+Hello, my name is Clément Décou I am a full-stack software developer with 10 years of experience working as a Senior Software Engineer at Humanoid. My technology stack involves PHP/Symfony and WordPress, Javascript/Typescript with nodejs, Go.
 I have an immense interest in music.
 
 ### 📚 About me 
