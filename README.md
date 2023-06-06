@@ -5,7 +5,8 @@ I have an immense interest in music.
 
 ### 📚 About me 
 
-- 🔭 I’m currently working on Humanoid websites (Frandroid, Numerama, Madmoizelle)
+- 🔭 I’m currently working on Ornikar Products
+- 🖍️ Before on Humanoid websites (Frandroid, Numerama, Madmoizelle)
 - 🌱 I’m currently learning Go and i love it
 - 👯 I’m looking to collaborate on PHP projects
 - 😄 Pronouns: He/Him
