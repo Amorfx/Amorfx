@@ -14,6 +14,7 @@ I have an immense interest in music.
 
 ### 🌱 My latest projects
 
+- [Amorfx/qube](https://github.com/Amorfx/qube) - Qube
 - [Amorfx/simply-framework](https://github.com/Amorfx/simply-framework) - Simply Framework
 - [Amorfx/simply-mvc](https://github.com/Amorfx/simply-mvc) - Simply MVC extension
 - [Amorfx/simply](https://github.com/Amorfx/simply) - Simply Boilerplate
