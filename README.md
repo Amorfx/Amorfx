@@ -47,9 +47,6 @@ I have an immense interest in music.
 
 <!-- #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/amorfx) (thank you!) -->
 ---
-### 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Amorfx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ### 🌐 Socials
 
