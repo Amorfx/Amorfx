@@ -53,6 +53,6 @@ I have an immense interest in music.
 
 ### 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clementdecou/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Amorfx3) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clementdecou/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Amorfx3) [![Mastodon](https://img.shields.io/badge/Mastodon-%236364FF.svg?logo=mastodon&logoColor=white)](https://piaille.fr/@amorfx) [![Bluesky](https://img.shields.io/badge/Bluesky-%230285FF.svg?logo=bluesky&logoColor=white)](https://bsky.app/profile/amorfx.bsky.social) 
 
 [![](https://visitcount.itsvg.in/api?id=Amorfx&icon=0&color=0)](https://visitcount.itsvg.in)
