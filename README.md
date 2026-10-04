@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello, my name is Clément Décou I am a full-stack software developer with 10 years of experience working as a Software Engineer at Ornikar. My technology stack involves PHP/Symfony and WordPress, Javascript/Typescript with nodejs, Go.
+Hello, my name is Clément Décou I am a full-stack software developer with 12 years of experience working as a Software Engineer at Ornikar. My technology stack involves PHP/Symfony and WordPress, Javascript/Typescript with nodejs, Go.
 I have an immense interest in music.
 
 ### 📚 About me 
@@ -14,7 +14,8 @@ I have an immense interest in music.
 
 ### 🌱 My latest projects
 
-- [Amorfx/qube](https://github.com/Amorfx/qube) - Qube
+- [Amorfx/claude-paste-view](https://github.com/Amorfx/claude-paste-view) - Claude Code mod to preview pasted images and long pasted text above the prompt
+- [Amorfx/reaper-release-exporter](https://github.com/Amorfx/reaper-release-exporter) - REAPER script to tag and export a single, EP or album with complete metadata and cover art
 - [Amorfx/simply-framework](https://github.com/Amorfx/simply-framework) - Simply Framework
 - [Amorfx/simply-mvc](https://github.com/Amorfx/simply-mvc) - Simply MVC extension
 - [Amorfx/simply](https://github.com/Amorfx/simply) - Simply Boilerplate
